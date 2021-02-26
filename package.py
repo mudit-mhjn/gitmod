@@ -6,4 +6,3 @@ def func2():
 
 def func():
     print("12345")
-    
